@@ -21,8 +21,8 @@ navigation:                # accepts {file, title, url, icon, sidebaricon}
 
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
   - {title: Mail, icon: envelope, url: "mailto:lasticpcc@gmail.com"}
-  - {title: Github, icon: github, url: "https://github.com/niklasbuschmann/contrast"}
-  - {title: Subscribe, icon: rss, url: "/feed.xml"}
+  - {title: Telnet BBS, icon: tv, url: "http://www.sfhqbbs.org/ftelnet.php?bbsid=36"}
+  - {title: Atari BBS list, icon: server, url: "http://www.sfhqbbs.org/ataribbslist.php"}
 
 comments:
 #  disqus_shortname: ""    # see https://disqus.com/
