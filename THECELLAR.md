@@ -20,7 +20,7 @@ on it in February and have the base system running in March 2024.
 telnet thecell.ar port 1040
 
 The BBS runs on an Atari MegaSTe 
-(https://upload.wikimedia.org/wikipedia/commons/0/01/Atari-mega-ste.jpg)
+!(https://upload.wikimedia.org/wikipedia/commons/0/01/Atari-mega-ste.jpg)
 
 connected to the internet via a Lantronix Serial-to-Ethernet device.
 The Lantronix enable the STe to accept an telnet session and it will translate this to
@@ -43,7 +43,7 @@ or
 
 You can also use your browser to access it via 
 
-(http://www.sfhqbbs.org/ftelnet.php?bbsid=36)
+![ATARIBBS](http://www.sfhqbbs.org/ftelnet.php?bbsid=36)
 
 
 ## Final Thoughts and Thanks !
