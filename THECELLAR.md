@@ -21,7 +21,7 @@ telnet thecell.ar port 1040
 
 The BBS runs on an Atari MegaSTe 
 
-![MEGASTE](/assets/images/MEGASTE.jpg)
+![MEGASTE](/assets/images/MEGASTE.JPG)
 
 connected to the internet via a Lantronix Serial-to-Ethernet device.
 
