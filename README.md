@@ -18,7 +18,7 @@ Then around the age of 12 a local toy-store which had previously carried the Ata
 , started to sell Colecovision and it's first iteration of a home computer , called
 the Colecovision Adam.
 
-Since it had a printer and was struggling with typing classes my parent decided to buy
+Since it had a printer and was struggling with typing classes my parents decided to buy
 this for me, it basically sparked my whole interest in computers in general.
 
 [ADAM](https://nl-m-wikipedia-org.translate.goog/wiki/Coleco_Adam?_x_tr_sl=nl&_x_tr_tl=en&_x_tr_hl=en-US&_x_tr_pto=wapp)
@@ -31,7 +31,7 @@ to take.
 
 I told him I wanted to be a translator since I had a knack for learning languages, I learned French,German and English just by watching television and reading comics/books before I even learned those languages at school.
 
-Computers did interest in me a lot but I was bad at mathematics due my lack of finding it 
+Computers did interest me a lot but I was bad at mathematics due my lack of finding it 
 usefull. He then somehow convinced me to take the more difficult path and I re-inscribed
 in the same school but going for a Programmer degree ...  mathematics would bite me in the
 ass until I quit school.
@@ -67,10 +67,10 @@ So after finding out an ST floppy-drive could also read DOS diskettes I convince
 One day I came home from school, and there was a huge box sitting in my room.
 But my enjoyment quickly turned to sorrow, it was no ST , it was an XT .
 I tried to convince my parents to return it and exchange it for an ST but no
-luck , my father made it very clear , I should counts my blessings on even getting
-a computer. ( reflecting on this as an adult, knowing the prices , I was spoiled )
+luck , my father made it very clear , I should count my blessings on even getting
+a computer. ( reflecting on this as an adult, knowing the price they paid , I was spoiled )
 
-So there I sat my Zenith Eazy-PC 
+So there I sat disappointed in my room with my Zenith Eazy-PC 
 
 [ZENITH](http://oldcomputers.net/zenith-eazy-pc.html)
 

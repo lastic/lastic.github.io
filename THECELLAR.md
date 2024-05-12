@@ -28,6 +28,7 @@ The Lantronix enable the STe to accept an telnet session and it will translate t
 AT commands upon which the BBS will accept the call and launch the logon procedure.
 
 It currently only allows 1 user at a time, if you cannot connect, please try again later.
+
 It runs in 80 colums by 25 rows and the menus have been optimised for this.
 The menus are ASCII, ANSI (16 colors) or VT52 (Atari ST 4 colors) 
 
