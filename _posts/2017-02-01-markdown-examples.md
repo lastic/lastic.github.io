@@ -1,85 +1,32 @@
 ---
-title:  "Markdown examples"
+title: "Welcome to my blog"
 layout: post
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
-
-Curabitur pretium tincidunt lacus. Nulla gravida orci a odio. Nullam varius, turpis et commodo pharetra, est eros bibendum elit, nec luctus magna felis sollicitudin mauris. Integer in mauris eu nibh euismod gravida. Duis ac tellus et risus vulputate vehicula. Donec lobortis risus a elit.
-
-
-## Heading Two (h2)
-
-### Heading Three (h3)
-
-#### Heading Four (h4)
-
-##### Heading Five (h5)
-
-###### Heading Six (h6)
+Glad to have you here. This blogsite will serve as a way 
+for me (Lastic) to document things I found, experiences
+I had , relive nostalgia and is primarely focused on 
+Atari, demoscene, BBSes and general Geek stuff.
 
 
-## Blockquotes
 
-### Single line
+Since I'm relatively NEW to the Atari scene (2016) I still rediscover
+things which are exciting or new to me which might be considered obsolete.
 
-> My mom always said life was like a box of chocolates. You never know what you're gonna get.
+Sometimes I find a way to teach an old dog new tricks using more recent
+hardware, sometimes I just delve into older stuff.
 
-### Multiline
+Coming from a programmer-degree in my studies but never having used to skills
+, I am trying to embark on developing in Python, Assembler  , C .
 
-> What do you get when you cross an insomniac, an unwilling agnostic and a dyslexic?
->
-> You get someone who stays up all night torturing himself mentally over the question of whether or not there's a dog.
->
-> – _Hal Incandenza_
+My UNIX background from my student days and my broad experience in computing 
+systems (mainframe/midrange/pc's) has aided me a lot in my networking career.
 
-## Horizontal Rule
+I plan to visit quite a few Atari events/meetings this year and as such will
+give my OWN perspective on them.
 
----
+Since I am also running a real hardware Atari ST BulletinBoardSystem since
+March 2024, a lot of work is also going into that and I will probably document
+the broader process/progress on here as well.
 
-## Table
-
-| Title 1          | Title 2          | Title 3         | Title 4         |
-|------------------|------------------|-----------------|-----------------|
-| First entry      | Second entry     | Third entry     | Fourth entry    |
-| Fifth entry      | Sixth entry      | Seventh entry   | Eight entry     |
-| Ninth entry      | Tenth entry      | Eleventh entry  | Twelfth entry   |
-| Thirteenth entry | Fourteenth entry | Fifteenth entry | Sixteenth entry |
-
-## Code
-
-Source code can be included by fencing the code with three backticks. Syntax highlighting works automatically when specifying the language after the backticks.
-
-````
-```javascript
-function foo () {
-    return "bar";
-}
-```
-````
-
-This would be rendered as:
-
-```javascript
-function foo () {
-    return "bar";
-}
-```
-
-## Lists
-
-### Unordered
-
-* First item
-* Second item
-* Third item
-    * First nested item
-    * Second nested item
-
-### Ordered
-
-1. First item
-2. Second item
-3. Third item
-    1. First nested item
-    2. Second nested item
+Hope you enjoy my little corner here on the interwebz.
