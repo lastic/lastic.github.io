@@ -1,6 +1,7 @@
-title: "Ramblings of a boomer aka the Retro Corner"
+title: "Ramblings of a Gen-Xer aka the Retro Corner"
 author: "Lastic"
-description: "Made with <b style=\"color: #f45;\">&lt;3</b>"
+description: "Made with " 
+icon: coffee
 permalink: /:title/
 lang: "en"
 excerpt_separator: "\n\n\n"
