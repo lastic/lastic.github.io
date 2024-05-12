@@ -1,7 +1,6 @@
 title: "Ramblings of a Gen-Xer aka the Retro Corner"
 author: "Lastic"
-description: "Made with " 
-icon: coffee
+description: "All content created/owned by LaSTiC - lasticppc@gmail.com" 
 permalink: /:title/
 lang: "en"
 excerpt_separator: "\n\n\n"
@@ -19,9 +18,10 @@ minimal: false             # use a dark header
 navigation:                # accepts {file, title, url, icon, sidebaricon}
   - {file: "index.html"}
   - {file: "README.md"}
+  - {file: "THECELLAR.md"}  
 
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
-  - {title: Mail, icon: envelope, url: "mailto:lasticpcc@gmail.com"}
+  - {title: Mail, icon: envelope, url: "mailto:lasticppc@gmail.com"}
   - {title: Telnet BBS, icon: tv, url: "http://www.sfhqbbs.org/ftelnet.php?bbsid=36"}
   - {title: Atari BBS list, icon: server, url: "http://www.sfhqbbs.org/ataribbslist.php"}
 
