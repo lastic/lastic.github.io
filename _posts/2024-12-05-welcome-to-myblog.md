@@ -3,6 +3,10 @@ title: "Welcome to my blog"
 layout: post
 ---
 
+{% if post.content.size > post.excerpt.size %}
+<p><a href="{{ post.url }}">(more...)</a></p>
+{% endif %}
+
 Glad to have you here. This blogsite will serve as a way 
 for me (Lastic) to document things I found, experiences
 I had , relive nostalgia and is primarely focused on 

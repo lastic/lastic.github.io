@@ -4,49 +4,66 @@ permalink: "/THECELLAR/"
 layout: page
 ---
 
-## Bulletin Board Systems
+## Why does one start a Bulletin Board System in 2024 ?
 
-Growing up in the 80ies-90ies, there was no social media, no instant-messaging.
+I grew up with a PC and its demoscene and the BBS culture
+always wanting an Atari ST.
 
-All information you could find about computing was either to be found in books
-or magazines or if you were lucky at a local computer club.
+When I read a Multi-User BBS existed on the Atari ST I had found a new project
+to dive into.
 
-Modems brought connecting from your home to the outside world into existence via
-Bulletin Boards.
+It has taught me a lot of Python, UNIX tools and patience since starting to work
+on it in February and have the base system running in March 2024.
 
-This very long documentary telling the entire history of BulletinBoards and its origins.
+## So what is it and how can I access it ?
 
-(https://www.youtube.com/watch?v=nO5vjmDFZa)
+telnet thecell.ar port 1040
 
-The systems provide a way to connect with other online users, share/trade knowledge
-and files before Napster/Limewire/Kazaa.
+The BBS runs on an Atari MegaSTe 
+(https://upload.wikimedia.org/wikipedia/commons/0/01/Atari-mega-ste.jpg)
 
-A lot of companies offered public bulletin boards as a way to provide user-support
-, universities, libraries, all of them offered some form of interaction.
+connected to the internet via a Lantronix Serial-to-Ethernet device.
+The Lantronix enable the STe to accept an telnet session and it will translate this to
+AT commands upon which the BBS will accept the call and launch the logon procedure.
 
-Here is nice more recent documentary about the BBS history and current evolution
+It currently only allows 1 user at a time, if you cannot connect, please try again later.
 
-(https://www.youtube.com/playlist?list=PLop3s1hMlSJKXqmuFjK7gbJh2WAyllTTY)
+It runs in 80 colums by 25 rows and the menus have been optimised for this.
+The menus are ASCII, ANSI (16 colors) or VT52 (Atari ST 4 colors) 
+It is best enjoyed with 
+      PC Syncterm     RAW,19200 Baud,8N1
+      (ASCII/ANSI)
+or
+      Atari ST ANSI capable Terminal
+      ANSIterm  19200 BAUD,8N1
+or 
+      Atari ST VT52 capable Terminal
+      TAZ,STalker,Flash , 19200 BAUD,8N1
+      for 4 colors 
 
-But the Pirate scene offered world-wide connections and software .
-I was however not too heavily involved in the illegal software trading but rather
-the demoscene.
+You can also use your browser to access it via 
 
-https://en.wikipedia.org/wiki/Demoscene
+(http://www.sfhqbbs.org/ftelnet.php?bbsid=36)
 
-BBSes were accessed using Modems and an analog-telephone line (like a fax) which
-ment you had to take into account the cost of calling/dialing a local-area,other-area
-and more importantly foreign-country phonenumber.
 
-With Ethernet/Internet/Linux rising accessing BBSes moved away from the phone-lines 
-towards TCP/IP, SLIP and other means of connecting.
+## Final Thoughts and Thanks !
 
-In recent years the evolution of ESP IoT devices has sparked the creation of Wifi-modems
-which basically connect to your serial port like a modem and translate the AT or Hayes
-command set (https://en.wikipedia.org/wiki/Hayes_AT_command_set)
-into TCP/IP thus allowing your retro-computer to connect to BBSes via the Internet.
+My sincere thanks to all these people 
 
-Vice-versa it also allows for Retro-computers to be used as BBSes again by using telnet
-as a service to connect to them.
+* Perdrix (USB drivers)
+* Techman aka Timothy Purves (author of Michtron BBS)
+* ASCII art  - zEUS/stylE+mystiC!
 
-There are still BBSes who still run the oldschool way , a real modem on an analog phone line.
+* The USA Atari BBS Sysops for their testing/advice and encouragement
+* The SNDH archivers
+* The Fujiology archivers
+* The Fading Twilight archivers
+* Pouet.net
+* scene.org
+* demozoo.org
+* ABBUC
+* the Atari scene worldwide
+
+and YOU for reading this.
+
+Frank - the sysop of the first Pirate BBS I visited here in Antwerp - THECELLAR lives on !

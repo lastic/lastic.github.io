@@ -46,3 +46,6 @@ Vice-versa it also allows for Retro-computers to be used as BBSes again by using
 as a service to connect to them.
 
 There are still BBSes who still run the oldschool way , a real modem on an analog phone line.
+
+You can find a list of Atari specific BBSes here
+[ATARIBBS](http://www.sfhqbbs.org/ataribbslist.php)
