@@ -16,8 +16,8 @@ things which are exciting or new to me which might be considered obsolete.
 Sometimes I find a way to teach an old dog new tricks using more recent
 hardware, sometimes I just delve into older stuff.
 
-Coming from a programmer-degree in my studies but never having used to skills
-, I am trying to embark on developing in Python, Assembler  , C .
+Coming from a programmer-degree in my studies but never having used those skills
+, I am trying to embark on developing in Python, Assembler , C .
 
 My UNIX background from my student days and my broad experience in computing 
 systems (mainframe/midrange/pc's) has aided me a lot in my networking career.
