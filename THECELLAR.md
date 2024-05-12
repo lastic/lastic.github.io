@@ -20,6 +20,7 @@ on it in February and have the base system running in March 2024.
 telnet thecell.ar port 1040
 
 The BBS runs on an Atari MegaSTe 
+
 ![MEGASTE](/assets/images/MEGASTE.jpg)
 
 connected to the internet via a Lantronix Serial-to-Ethernet device.
