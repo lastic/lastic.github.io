@@ -14,7 +14,7 @@ or magazines or if you were lucky at a local computer club.
 Modems brought connecting from your home to the outside world into existence via
 Bulletin Boards.
 This very long documentary telling the entire history of BulletinBoards and its origins.
-{% include embed.html url="https://www.youtube.com/watch?v=nO5vjmDFZa" %}
+[BBSDOC](https://www.youtube.com/watch?v=nO5vjmDFZa)
 
 The systems provide a way to connect with other online users, share/trade knowledge
 and files before Napster/Limewire/Kazaa.
@@ -22,8 +22,7 @@ and files before Napster/Limewire/Kazaa.
 A lot of companies offered public bulletin boards as a way to provide user-support
 , universities, libraries, all of them offered some form of interaction.
 
-Here is nice more recent documentary about the BBS history and current evolution
-{% include embed.html url="https://www.youtube.com/playlist?list=PLop3s1hMlSJKXqmuFjK7gbJh2WAyllTTY" %}
+Here is nice more recent documentary [BBSNEW](https://www.youtube.com/playlist?list=PLop3s1hMlSJKXqmuFjK7gbJh2WAyllTTY) about the BBS history and current evolution
 
 But the Pirate scene offered world-wide connections and software .
 I was however not too heavily involved in the illegal software trading but rather
@@ -45,5 +44,4 @@ as a service to connect to them.
 
 There are still BBSes who still run the oldschool way , a real modem on an analog phone line.
 
-You can find a list of Atari specific BBSes here
-![ATARIBBS](http://www.sfhqbbs.org/ataribbslist.php)
+You can find a list of Atari specific BBSes here [ATARIBBS](http://www.sfhqbbs.org/ataribbslist.php)
