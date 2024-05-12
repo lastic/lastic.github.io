@@ -1,5 +1,5 @@
 ---
-title: "About"
+title: "About Me"
 permalink: "/about/"
 layout: page
 ---
@@ -86,15 +86,13 @@ So many fond memories of those 4 years on BulletinBoards.
 
 ## Life as an adult
 
+My 386DX survived Y2K and I used it extensively until 2002 when a friend kindly told
+me to get with the times and gave me a Pentium-II with Windows.
 
-## License
+I didn't really have to urge to move to Windows, I was using my 386DX without Internet
+, DigitalResearch DOS 6.0 and GEM (for DOS) as a GUI.
 
-[public domain](http://unlicense.org/)
+After being bit again by the retro-bug first in collecting Apple PowerPC's I finally 
+started owning Atari's. First an 130XE and then finally an 1040STfm .
 
-## Screenshots
-
-![screenshot](https://user-images.githubusercontent.com/4943215/109431850-cd711780-7a08-11eb-8601-2763f2ee6bb4.png)
-
-![screenshot](https://user-images.githubusercontent.com/4943215/109431832-b6cac080-7a08-11eb-9c5e-a058680c23a1.png)
-
-![screenshot](https://user-images.githubusercontent.com/4943215/73125194-5f0b8b80-3fa4-11ea-805c-8387187503ad.png)
+By now I have so many PowerPC's and 8-16bit Atari's mainly and attend Atari meetings/events.
