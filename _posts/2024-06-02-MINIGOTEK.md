@@ -3,8 +3,7 @@ title: "MINIGOTEK"
 layout: post
 ---
 
-Since I take my 520ST with me to Atari meetings, I really missed having a floppy drive with me.
-The 520ST does not have an internal floppy but the positive of this is that the 520ST dimensions are easier to fit into a backpack.
+Since I take my 520ST with me to Atari meetings, I really missed having a floppy drive with me. The 520ST does not have an internal floppy but the positive of this is that the 520ST dimensions are easier to fit into a backpack.
 
 
 
