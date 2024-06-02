@@ -5,7 +5,9 @@ layout: post
 
 When visiting GEMTOS 2024 in France the first weekend of May, I was kindly invited by p0ke to
 the Shadow Party on the 29th-30th of June also in France.
+
 ![SHADOWLOGO](/assets/images/logo9.PNG)
+
 (image courtesy of ShadowParty)
 
 <!--more-->
