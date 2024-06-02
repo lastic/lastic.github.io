@@ -7,8 +7,7 @@ Since I take my 520ST with me to Atari meetings, I really missed having a floppy
 The 520ST does not have an internal floppy but the positive of this is 
 that the 520ST dimensions are easier to fit into a backpack.
 
-
-
+<!--more-->
 
 Another issue is that the floppy port sits right next to the ACSI port on the 520ST so there is not a lot of room for a floppy connector.
 

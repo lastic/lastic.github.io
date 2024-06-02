@@ -8,7 +8,7 @@ for me (Lastic) to document things I found, experiences
 I had , relive nostalgia and is primarely focused on 
 Atari, demoscene, BBSes and general Geek stuff.
 
-
+<!--more-->
 
 Since I'm relatively NEW to the Atari scene (2016) I still rediscover
 things which are exciting or new to me which might be considered obsolete.
