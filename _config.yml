@@ -25,7 +25,7 @@ external:                  # shows a footer with social links - for available ic
   - {title: Mail, icon: envelope, url: "mailto:lasticppc@gmail.com"}
   - {title: Telnet BBS, icon: tv, url: "http://www.sfhqbbs.org/ftelnet.php?bbsid=36"}
   - {title: Atari BBS list, icon: server, url: "http://www.sfhqbbs.org/ataribbslist.php"}
-  - {title: RSS-feed, icon: rss, url: "www.thecell.ar/feed.xml"}  
+  - {title: RSS-feed, icon: rss, url: "feed.xml"}  
 
 comments:
 #  disqus_shortname: ""    # see https://disqus.com/
