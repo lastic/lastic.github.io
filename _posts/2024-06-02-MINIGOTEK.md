@@ -3,12 +3,13 @@ title: "MINIGOTEK"
 layout: post
 ---
 
-Since I take my 520ST with me to Atari meetings, I really missed having a floppy drive with me. The 520ST does not have an internal floppy but the positive of this is that the 520ST dimensions are easier to fit into a backpack.
+Since I take my 520ST with me to Atari meetings, I really missed having a floppy drive with me. 
+The 520ST does not have an internal floppy but the positive of this is 
+that the 520ST dimensions are easier to fit into a backpack.
 
 
 
-Another issue is that the floppy port sits right next to the ACSI port on the 520ST so there is not a lot of room
-for a floppy connector.
+Another issue is that the floppy port sits right next to the ACSI port on the 520ST so there is not a lot of room for a floppy connector.
 
 But then I stumbled upon this creation by a Dutch retrocomputing seller which I already had bought several items from.
 
@@ -42,14 +43,12 @@ Cumana external ST diskdrive , Mini Gotek , 20-pack of sigarettes
 
 ![Mini_Gotek_size_comparison](/assets/images/Mini_Gotek_size_comparison.JPG)
 
-Then after receiving the next parts , a 90 Degrees Mini-B USB Cable and  Piezo Buzzer, the final steps of the 
-build could be completed.
+Then after receiving the next parts , a 90 Degrees Mini-B USB Cable and  Piezo Buzzer, the final steps of the build could be completed.
 
 ![Mini_Gotek_internals](/assets/images/Mini_Gotek_internals.JPG)
 ![Mini_Gotek_cables](/assets/images/Mini_Gotek_cables.JPG)
 
-The original green LED I had fitted was a bit dull so I added a brighter red LED and made a hole for it in the
-case so it would be more visible.
+The original green LED I had fitted was a bit dull so I added a brighter red LED and made a hole for it in the case so it would be more visible.
 
 ![Mini_Gotek_front_final](/assets/images/Mini_Gotek_front_final.JPG)
 
