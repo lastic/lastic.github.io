@@ -26,10 +26,10 @@ So the idea was born to create a mini-GOTEK.
 ![FloppyDrive_DIN14](/assets/images/FloppyDrive_DIN14.JPG)
 ![Gotek_Connected](/assets/images/Gotek_Connected.JPG)
 ![Gotek_ACSI](/assets/images/Gotek_ACSI.JPG)
-![Gotek_Assembly_in_case_first_try](/assets/images/Gotek_Assembly_in_case_first_try.JPG)
 
 Now to adapt the case to fit the GOTEK PCB and the adapter.
 
+![Gotek_Assembly_in_case_first_try](/assets/images/Gotek_Assembly_in_case_first_try.JPG)
 ![Case_front_before_cutout](/assets/images/Case_front_before_cutout.JPG)
 ![Case_front_USB_cutout](/assets/images/Case_front_USB_cutout.JPG)
 
