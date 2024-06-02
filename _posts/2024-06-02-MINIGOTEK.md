@@ -9,6 +9,7 @@ that the 520ST dimensions are easier to fit into a backpack.
 
 
 
+
 Another issue is that the floppy port sits right next to the ACSI port on the 520ST so there is not a lot of room for a floppy connector.
 
 But then I stumbled upon this creation by a Dutch retrocomputing seller which I already had bought several items from.
