@@ -9,7 +9,7 @@ A VME USB interface :)
 
 <!--more-->
 
-No this is not a blog post about how my MegaSTe what hit with lightning during a 
+No this is not a blog post about how my MegaSTe was hit with lightning during a 
 thunderstorm. 
 
 ![THUNDER](/assets/images/LIGHTNING/THUNDER.JPG)
@@ -23,14 +23,15 @@ It functioned perfectly but ...
 Michtron BBS has the ability to run Multi-user if you add -the-not-yet-reverse-engineered-
 DC Port-Extender to the cartridge port to connect up to 3 modems.
 
-So I was looking for a viable replacement that delivers USB connectivity and since a MegaSTE has an VME bus , I stumbled upon the Lightning VME USB card.
+So I was looking for a viable replacement that delivers USB connectivity and since a MegaSTE has an VME bus
+, I stumbled upon the Lightning VME USB card.
 
 I emailed Team Thunderstorm via their global email Thunderstorm@tuxie.de .
 
 And Matthias promptly replied , he told me they were still available and the price
 and shipping cost to Belgium.
 
-I had explained how that I needed it for my MegaSTe running the BBS and to my suprise
+I had explained why I needed it for my MegaSTe running the BBS and to my suprise
 , Team Thunderstorm replied again and told me they would sponsor my BBS and donate me
 a Lightning VME card.
 
@@ -59,9 +60,10 @@ Since the lid of my MegaSTe is unscrewed for easy access I first started to visu
 I then carefully followed the very precise instructions on their website.
 
 [INSTRUCTIONS_GERMAN](https://wiki.newtosworld.de/index.php?title=Lightning_VME_USB_Interface#Installation_der_Software/)
+
 [INSTRUCTIONS_ENGLISH](https://wiki.newtosworld.de/index.php?title=Lightning_VME_En/)
 
-As written in the instructions  indeed I had the small chip in a socket who was a bit blocking the VME riser card but after removing it and reinstalling it once the Lightning VME card was installed, the cables were easy to reinstall and then to connect the backplane ports.
+As written in the instructions indeed I had the small chip in a socket who was a bit blocking the VME riser card but after removing it and reinstalling it once the Lightning VME card was installed, the cables were easy to reinstall and then to connect the backplane ports.
 
 ![VMECABLES](/assets/images/LIGHTNING/VMECABLES.JPG)
 
