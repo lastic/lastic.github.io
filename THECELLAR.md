@@ -21,11 +21,13 @@ telnet thecell.ar port 1040
 
 The BBS runs on an Atari MegaSTe 
 
-![mega](/assets/images/MEGASTE.JPG)
+![MEGASTENEW](/assets/images/LIGHTNING/MEGASTENEW.JPG)
 
-connected to the internet via a Lantronix Serial-to-Ethernet device.
+connected to the internet via a CMBSTUFF Wimodem232 PRO.
 
-The Lantronix enable the STe to accept an telnet session and it will translate this to
+![WIMODEMSTAND](/assets/images/LIGHTNING/WIMODEMSTAND.JPG)
+
+The Wimodem enables the STe to accept an telnet session and it will translate this to
 AT commands upon which the BBS will accept the call and launch the logon procedure.
 
 It currently only allows 1 user at a time, if you cannot connect, please try again later.
@@ -50,8 +52,9 @@ You can also use your browser to access it via [FTELNET](http://www.sfhqbbs.org/
 
 ## Final Thoughts and Thanks !
 
-My sincere thanks to all these people 
+My sincere thanks to all these people (UPDATED 16th of June 2024)
 
+* Team Thunderstorm (who kindly donated the BBS a Lightning VME USB card upgrade)
 * Perdrix (USB drivers)
 * Techman aka Timothy Purves (author of Michtron BBS)
 * ASCII art  - zEUS/stylE+mystiC!
