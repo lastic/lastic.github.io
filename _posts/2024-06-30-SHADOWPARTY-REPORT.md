@@ -95,7 +95,7 @@ The owner kindly allowed me to use this picture, the videos and other pictures I
 
 Saturday was filled with seminars then later in the afternoon musical performances followed by the compos as you can see in the timetable here
 
-![TIMETABLE](https://shadow-party.org/timetable)
+[TIMETABLE](https://shadow-party.org/timetable)
 
 Impressive seminars done by B. 
 
