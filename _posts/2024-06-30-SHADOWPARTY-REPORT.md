@@ -101,9 +101,9 @@ Impressive seminars done by B.
 
 I met 3 CPC users
 
--Candy from OVerLanders (not to be confused with the ST crew by the same name)
--CheshireCat from Flush
--Candy's colleague whose name I unfortunately didn't get.
+- Candy from OVerLanders (not to be confused with the ST crew by the same name)
+- CheshireCat from Flush
+- Candy's colleague whose name I unfortunately didn't get.
 
 ![AMSTRADCPC](/assets/images/SHADOWPARTY-REPORT/AMSTRADCPC.JPG)
 
@@ -135,6 +135,7 @@ And last but not least, also met them for the first time at GEMTOS, was
 unaware they were playing here as well but one again nice to see you guys
 again and thanks also once again for the nice set.
 I still can't figure out how you can understand all the necessary cabling.
+
 [THEOTHERDAYS](https://youtu.be/TJBdwIMCsVs)
 
 In the meantime BBQ had been fired and we were all presented with a nice mix of German mini sausages (provided by Dr.Snuggles &  ?), chicken,merguez and oh yeah I forgot , there were veggies too.
@@ -142,7 +143,7 @@ In the meantime BBQ had been fired and we were all presented with a nice mix of 
 And so the compos were shown, I forgot to mention that everything
 was streamed live and there was quite an online following also.
 
-![TIMETABLE](/assets/images/SHADOWPARTY-REPORT/TIMETABLE.JPG)
+![SCHEDULE](/assets/images/SHADOWPARTY-REPORT/TIMETABLE.JPG)
 
 All voting was done, with a bit of a delay we were ready for the cherry
 on the cake, another Atari ST gem or should I say gwEm , creator of 
