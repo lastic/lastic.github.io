@@ -138,7 +138,7 @@ I still can't figure out how you can understand all the necessary cabling.
 
 [THEOTHERDAYS](https://youtu.be/TJBdwIMCsVs)
 
-In the meantime BBQ had been fired and we were all presented with a nice mix of German mini sausages (provided by Dr.Snuggles &  ?), chicken,merguez and oh yeah I forgot , there were veggies too.
+In the meantime BBQ had been fired and we were all presented with a nice mix of German mini sausages (provided by Dr.Snuggles & Gnu ? war super toll euch zu treffen), chicken,merguez and oh yeah I forgot , there were veggies too.
 
 And so the compos were shown, I forgot to mention that everything
 was streamed live and there was quite an online following also.
@@ -166,12 +166,14 @@ to bring some more nice seminars.
 
 Cicile and Yoann talked about their groups work on getting the
 French demoscene listed as an Unesco art heritage.
-Love what you have been done and indeed BELGIUM what are we doing to
+
+Love what you have been doing and indeed BELGIUM what are we doing to
 preserve the Belgian Demoscene for future generations ???
 
 Zerkman (Sector-One) who had been sitting next to me, presented his
 Atari ST FPGA project called ZeST , unfortunately I had to leave already.
-But I will definetly follow-it, I already ordered the FPGA.
+
+But I will definitely follow-it, I already ordered the FPGA.
 
 I wasn't there anymore for the results of the competitions sadly enough.
 But future-me is really pleased with the results.
