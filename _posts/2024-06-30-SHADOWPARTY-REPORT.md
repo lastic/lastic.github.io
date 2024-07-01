@@ -83,7 +83,7 @@ p0ke made some really nice pasta carbonara to fill our bellies.
 And first musical appearance, a nice live set provided by L-Sync providing us with Gameboy chiptunes.
 Absolutely loved his energy, keep doing what you're doing !
 
-![L-SYNC](https://youtu.be/pLnL5dsMvZ8)
+[L-SYNC](https://youtu.be/pLnL5dsMvZ8)
 
 Around 02:00 AM I decided to call it a night to rest a bit.
 
@@ -118,25 +118,24 @@ During the Shaderjam battles we had some more live music performers.
 Another energetic set by Pouale , also Gameboy chiptune music, please
 look up his name , he has a recently released album that might interest you.
 
-![POUALE](https://youtube.com/shorts/9OjeFl5LkqY)
+[POUALE](https://youtube.com/shorts/9OjeFl5LkqY)
 
 Then another nice Frenchman with whom I had nice chat about his moving-up
 into the Demoscene from wayback and on Sunday politics since the French
 were due to vote on Sunday.
 
-![ALKAMA](https://youtube.com/shorts/h3EUvbCXHF0)
+[ALKAMA](https://youtube.com/shorts/h3EUvbCXHF0)
 
-Then followed by something more known to me , Atari ST chiptune composer
-, DMA-SC , really nice set and nice to see you again after we met at GEMTOS.
+Then followed by something more known to me , Atari ST chiptune composer, 
+DMA-SC , really nice set and nice to see you again after we met at GEMTOS.
 
-![DMA-SC](https://youtube.com/shorts/7ssdTob39eM)
+[DMA-SC](https://youtube.com/shorts/7ssdTob39eM)
 
 And last but not least, also met them for the first time at GEMTOS, was
 unaware they were playing here as well but one again nice to see you guys
 again and thanks also once again for the nice set.
 I still can't figure out how you can understand all the necessary cabling.
-
-![THEOTHERDAYS](https://youtu.be/TJBdwIMCsVs)
+[THEOTHERDAYS](https://youtu.be/TJBdwIMCsVs)
 
 In the meantime BBQ had been fired and we were all presented with a nice mix of German mini sausages (provided by Dr.Snuggles &  ?), chicken,merguez and oh yeah I forgot , there were veggies too.
 
