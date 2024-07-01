@@ -1,5 +1,5 @@
 ---
-title: "SHADOWPARY-REPORT"
+title: "SHADOWPARTY-REPORT"
 layout: post
 ---
 
