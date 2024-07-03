@@ -2,6 +2,7 @@
 title: "SHADOWPARTY-REPORT"
 layout: post
 ---
+UPDATED 3-July-2024 
 
 Finally ShadowParty was due to happen.
 
@@ -70,6 +71,12 @@ I felt a warm welcome as I was greeted by Callisto, p0ke, MooZ and a fellow Belg
 
 ![RBBS-LOGO](/assets/images/SHADOWPARTY-REPORT/TK-RBBS.png)
 
+[RBBS](https://www.rbbs.be/)
+
+Organiser of the Rsync demoparty in Belgium
+
+[RSYNC](https://www.demoparty.be/)
+
 Draft beers were provided by the ShadowParty organisers
 
 ![BEER](/assets/images/SHADOWPARTY-REPORT/BEER.JPG)
@@ -103,7 +110,7 @@ I met 3 CPC users
 
 - Candy from OVerLanders (not to be confused with the ST crew by the same name)
 - CheshireCat from Flush
-- Candy's colleague whose name I unfortunately didn't get.
+- Ricoloaz
 
 ![AMSTRADCPC](/assets/images/SHADOWPARTY-REPORT/AMSTRADCPC.JPG)
 
@@ -157,10 +164,9 @@ to create Gameboy chiptunes, wow, loving the passion and energy.
 
 So I hit the sack at around 02-03:00 AM, from what I had been told later
 at 08:00 AM Sunday morning, the music had lasted until 05:00 AM provided
-by our nice presentor whose name I also didn't catch.
+by Masami and Marex.
 
-Sunday morning, a bit more gloomy weather but that didn't stop ShadowParty
-to bring some more nice seminars.
+Sunday morning, a bit more gloomy weather but that didn't stop ShadowParty to bring some more nice seminars.
 
 ![STREAM](/assets/images/SHADOWPARTY-REPORT/STREAM.JPG)
 
