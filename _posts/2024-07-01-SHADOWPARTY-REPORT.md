@@ -2,7 +2,7 @@
 title: "SHADOWPARTY-REPORT"
 layout: post
 ---
-UPDATED 3-July-2024 
+UPDATED 5-August-2024 
 
 Finally ShadowParty was due to happen.
 
@@ -155,6 +155,10 @@ was streamed live and there was quite an online following also.
 All voting was done, with a bit of a delay we were ready for the cherry
 on the cake, another Atari ST gem or should I say gwEm , creator of 
 MaxYMiser, ST-J and Atari ST chiptunes performing a live-remote set.
+
+UPDATED 5th of August 2024, gwEm has released his set on his Youtube channel
+
+[gwEm_LIVE_SET](https://youtu.be/RW2bqfdIGN0?si=DkBzG88VXLcjbWf8)
 
 The evening came to an end for me when even with reading-glasses my eyes
 were getting too tired to read another line on my screen.
