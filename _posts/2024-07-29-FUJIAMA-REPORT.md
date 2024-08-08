@@ -53,9 +53,9 @@ Norbert brought his collection of ZX Spectrums
 
 and Stefan sitting next to him helped him document/repair/perform maintenance on his Harlequin ZX replica.
 
-![HARLEQUIN.JPG](/assets/images/FUJIAMA2024/HARLEQUIN.JPG
+![HARLEQUIN.JPG](/assets/images/FUJIAMA2024/HARLEQUIN.JPG)
 
-Altough Stefan also brough next to his Ataris a modern ZX Spectrum replica which I 
+Although Stefan also brought next to his Ataris a modern ZX Spectrum replica which I 
 dubbed the Pink Panther.
 
 ![PINKPANTHER.JPG](/assets/images/FUJIAMA2024/PINKPANTHER.JPG)
