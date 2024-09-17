@@ -15,7 +15,10 @@ But then I stumbled upon this creation by a Dutch retrocomputing seller which I 
 
 [GOTEKRETRO](https://www.gotek-retro.eu/atari-gotek-external-deluxe)
 
-This version will only work with the older type GOTEK but luckily I only have old stuff lying around at home :)
+UPDATED 17-SEP-2024 According to the seller the PCB works
+99% sure with all models of Goteks, the adapter board on the floppyport of the ST also has a 3D printed housing now.
+
+~~This version will only work with the older type GOTEK but luckily I only have old stuff lying around at home :)~~
 
 For another project I had bought an ABS case with closely resembles the grey ST colour.
 
