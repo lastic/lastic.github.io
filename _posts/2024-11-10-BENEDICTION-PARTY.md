@@ -85,7 +85,7 @@ thank-yous in particular
 - CrackY who replaced my internal diskdrive belt and aided me with my external GOTEK as well as dropping me and Prodatron off at our gites at night.
 - AST who helped me in getting palette values from OCP Art studio dumped into an
 INK file
-- NickyOne and Bouba who helped me understand how to load an SCR and OCP Art Studio inKgeneral since I had never used it in my life
+- NickyOne and Bouba who helped me understand how to load an SCR and OCP Art Studio in general since I had never used it in my life
 - Hicks who helped with VBL sync and loading a palette from an INK file,  
 also made me understand why you need to disable interrupts and not using system calls  
 ( yeah I get the concepts and have a basis 8-bit PC Assembler from 33 years ago but that's all )
