@@ -3,6 +3,8 @@ title: "BENEDICTION-PARTY"
 layout: post
 ---
 
+UPDATED 15-NOV-2024
+
 Prodatron asked me if I was interested in joining him to ride-along to France  
 to go to the [BENEDICTION-CODING-PARY](https://bndcodingparty.memoryfull.net/)
 
@@ -36,7 +38,7 @@ Benediction coding party is organised by Eliot/Benediction and is very friendly,
 well-organised weekend of getting together, working on CPC related stuff,  
 and sharing knowledge or just memories.  
 
-The main focus lies on coding, so gaming is not allowed but in all honesty  
+The main focus lies on coding, so gaming is "not preferred" but in all honesty  
 there such a one-big-family vibe that you are automatically inspired to do  
 something creative on the CPC.
 
@@ -46,6 +48,8 @@ As the plastic cups of the event will tell you
 ![CUP2](/assets/images/BENEDICTION-PARTY/CUP2.JPG)
 ![CUP3](/assets/images/BENEDICTION-PARTY/CUP3.JPG)
 ![CUP4](/assets/images/BENEDICTION-PARTY/CUP4.JPG)
+
+However testing new previews of games like Sonic on the CPC+ or the new Castlevania , falls under the testing category :-)
 
 
 40 attendees , mostly from all corners of France, a lot of names which I had  
@@ -133,3 +137,4 @@ I sure will be present next year.
 
 You can find some more information here [GENERAL](https://memoryfull.net/party.php?id=257) and photos here [PHOTOS]([GENERAL](https://memoryfull.net/party.php?id=257))
 
+And a nice blog [REPORT](https://memoryfull.net/party.php?id=257) by Hwikaa (with whom I shared experiences about backpacking for retro travels versus airport security)
