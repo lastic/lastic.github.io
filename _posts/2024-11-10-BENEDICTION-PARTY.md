@@ -135,6 +135,6 @@ My thanks to Eliot once again and everybody present, thanks for allowing me to p
 Last but not least MY THANKS TO PRODATRON for taking me along this ride, I had a really great time and unless life gets in the way  
 I sure will be present next year.
 
-You can find some more information here [GENERAL](https://memoryfull.net/party.php?id=257) and photos here [PHOTOS]([GENERAL](https://memoryfull.net/party.php?id=257))
+You can find some more information here [BND4](https://memoryfull.net/party.php?id=257) also the link to the photos here on that same page.
 
 And a nice blog [REPORT](https://memoryfull.net/party.php?id=257) by Hwikaa (with whom I shared experiences about backpacking for retro travels versus airport security)
