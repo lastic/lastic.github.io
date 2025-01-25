@@ -3,7 +3,7 @@ title: "TALE_OF_TWO_CRTCS"
 layout: post
 ---
 
-Every since discovering the Amstrad CPC one quirk of it's hardware has been disturbing my enjoyment of demos on this platforms.
+Every since discovering the Amstrad CPC one quirk of it's hardware has been disturbing my enjoyment of demos on this platform.
 
 The CRTC differences.
 
@@ -22,18 +22,18 @@ Both my 464 and 6128 have a CRTC type 1 which isn't too bad since some demos hav
 some simply don't work since they expect a CRTC type 0.
 
 I was unable to find a good source of CRTC type 0 until I found a Youtube repair video, 
-basing that the person in the video lives in Austria, I went ahead and asked if they could provide me their eBay seller.
+based off that the person in the video lives in Austria, I went ahead and asked if they could provide me their eBay seller since I presumed it would be an European seller.
 
 The eBAY seller was located in Poland so no import fees and a good price.   
 My order was placed for 4 x CRTC type 1 aka the Hitachi HD6845S, which apparantly can be found in videorecorders and such.
 
 Once they arrived I delved into the details of this article on how to do a [dual-CRTC](http://www.kameli.net/marq/?p=3415) piggybanking setup.
 
-You basically take pin 20 of the CRTCs,which is VCC (5V) disconnect it and run a wire from the PCB to a switch and both pin 20ies of the
+You basically take pin 20 of the CRTCs, which is VCC (5V), disconnect it and run a wire from the PCB to a switch and both pin 20ies of the
 CRTCs to that same switch.
 
 First ,the 464.   
-This one is pretty one since all components are spread on the motherboard so there is enough room to get to the CRTC with a 
+This one is a pretty simple one since all components are spread on the motherboard so there is enough room to get to the CRTC with a 
 soldering iron.
 
 Here is the original UM CRTC1 chip with all the wiring done.
