@@ -4,12 +4,20 @@ permalink: "/THECELLAR/"
 layout: page
 ---
 
+## UPDATE 20-OCT-2026
+
+The BBS was down due to unresolved issues with the BlueSCSI hard-disk image 
+beginning of 2026  
+but has now been up and running again since half October 2026.
+
+Hope you enjoy the new pictures :)
+
 ## Why does one start a Bulletin Board System in 2024 ?
 
 I grew up with a PC and its demoscene and the BBS culture
 always wanting an Atari ST.
 
-When I read a Multi-User BBS existed on the Atari ST I had found a new project
+When I read a **Multi-User** BBS existed on the Atari ST I had found a new project
 to dive into.
 
 It has taught me a lot of Python, UNIX tools and patience since starting to work
@@ -21,18 +29,23 @@ telnet thecell.ar port 1040
 
 The BBS runs on an Atari MegaSTe 
 
-![MEGASTENEW](/assets/images/LIGHTNING/MEGASTENEW.JPG)
+![MEGASTENEW](/assets/images/THECELLAR/MEGA_STE_DC_PORT.JPG)
 
-connected to the internet via a CMBSTUFF Wimodem232 PRO.
+connected to the internet via 2 x CMBSTUFF Wimodem232 PROs  
+via an cartride expansion called DC-PORT natively supported by Michtron BBS software.
 
-![WIMODEMSTAND](/assets/images/LIGHTNING/WIMODEMSTAND.JPG)
+![WIMODEMSTAND](/assets/images/THECELLAR/DC_PORT.JPG)
+
+See https://www.thecell.ar/DC-PORT/
 
 The Wimodem enables the STe to accept an telnet session and it will translate this to
 AT commands upon which the BBS will accept the call and launch the logon procedure.
 
-It currently only allows 1 user at a time, if you cannot connect, please try again later.
+**It currently allows 2 users at a time.**
 
-It runs in 80 colums by 25 rows and the menus have been optimised for this.
+**If 2 users are connected at the same time, they can chat to each other in the Chatroom.**
+
+It runs in 80 colums by 25 rows and the menus have been optimised for this.  
 The menus are ASCII, ANSI (16 colors) or VT52 (Atari ST 4 colors) 
 
 It is best enjoyed with 
@@ -52,7 +65,7 @@ You can also use your browser to access it via [FTELNET](http://www.sfhqbbs.org/
 
 ## Final Thoughts and Thanks !
 
-My sincere thanks to all these people (UPDATED 16th of June 2024)
+My sincere thanks to all these people
 
 * Team Thunderstorm (who kindly donated the BBS a Lightning VME USB card upgrade)
 * Perdrix (USB drivers)
