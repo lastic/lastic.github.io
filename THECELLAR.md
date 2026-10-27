@@ -27,7 +27,7 @@ on it in February and have the base system running in March 2024.
 
 telnet thecell.ar port 1040
 
-The BBS runs on an Atari MegaSTe 
+The BBS runs on an Atari MegaSTe running the multi-user Michtron BBS 3.0 software
 
 ![MEGASTENEW](/assets/images/THECELLAR/MEGA_STE_DC_PORT.JPG)
 
